@@ -122,6 +122,12 @@
           }
         }
       }
-    }},
-  "defaultProject": "coffee-nights"
+    }
+  },
+  "defaultProject": "coffee-nights",
+  "schematics": {
+    "@schematics/angular:component": {
+      "styleext": "scss"
+    }
+  }
 }
