@@ -1,5 +1,12 @@
 # CoffeeNights
 
+
+This is a personal pet project for me to learn basics of Angular and test in running env by deploying to real host and testing it out on internet.
+
+
+
+## DEV Stuff
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
 ## Development server
